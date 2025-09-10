@@ -4,8 +4,8 @@ I made a small PCB around [the findings of SN8Flash](https://github.com/silicage
 
 Instead of having ot breadboard the components needed for the Sonix onewire protocol, I included those as well as a CH343 onto a single, tiny PCB with a USB-C port and ESD protection for all in/outputs.
 
-NOTE: This PCB is still not tested.
+NOTE: This PCB has not yet been tested.
 
-|![](sonixflasher/fab/sonixflasher-top.png) | ![](sonixflasher/fab/sonixflasher-bottom.png)|
+| <img src="sonixflasher/fab/sonixflasher-top.png" width="200"> | <img src="sonixflasher/fab/sonixflasher-bottom.png" width="200"> |
 |:---:|:---:|
 | Top | Bottom |
